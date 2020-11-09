@@ -1,0 +1,1 @@
+<span>&copy; <?php echo(date("Y")); ?> Movies DB.</span>
